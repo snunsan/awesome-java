@@ -50,6 +50,7 @@ A curated list of awesome Java frameworks, libraries and software.
     - [Serialization](#serialization)
     - [Server](#server)
     - [Template Engine](#template-engine)
+    - [Test coverage](#test-coverage)
     - [Testing](#testing)
     - [Utility](#utility)
     - [Web Crawling](#web-crawling)
@@ -540,6 +541,13 @@ A curated list of awesome Java frameworks, libraries and software.
 * [FreeMarker](http://freemarker.org/) - General templating engine without any heavyweight or opinionated dependencies.
 * [Handlebars.java](http://jknack.github.io/handlebars.java/) - Logic-less and semantic Mustache templates.
 * [Thymeleaf](http://www.thymeleaf.org/) - Aims to be a substitute for JSP and works for XML files in general.
+
+## Test coverage
+
+*Tools that calculate the percentage of code covered by testing.*
+
+* [Cobertura](http://cobertura.github.io/cobertura/) - Calculation of the percentage of code accessed by tests.
+* [Emma](http://emma.sourceforge.net/) - Open-source toolkit for measuring and reporting Java code coverage.
 
 ## Testing
 
